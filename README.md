@@ -114,4 +114,4 @@ If you encounter any issues or have questions, please open an issue in the repos
 
 ---
 
-Made with ❤️ by Anime Groot | Powered by Streamlit ✨ 
+Made with ❤️ by Groot | Powered by Streamlit ✨ 
